@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rocket Blast</title>
+</head>
+<body>
+<style>
+
+body {
+  background-image: url("https://static.toiimg.com/photo/msid-62812607/62812607.jpg?352933")
+}
+
+  #nav {
+    right: 10px;
+    height: 70px;
+    background-color: rgb(242, 242, 242);
+    opacity: 0.6;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  
+    
+}
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+#nav ul li {
+    margin: 0;
+    padding: 0;
+    float:left;
+    height: 100px;
+}
+#nav ul li a {
+    text-decoration: none;
+    padding: 10px 25px;
+    display: block;
+    color: #FFF;
+    text-align: center;
+    font-family: monospace;
+    color: black;
+}
+#nav ul li a:hover {
+    color: black;
+}
+
+</style>
+<h1 class="blink_text">Falcon heavy Rocket Blast</h1>
+<div id="nav">
+    <ul>
+        <li>
+          <a href="">Home</a>
+        </li>
+        <li><a href="">Images</a>
+        </li>
+        <li><a href="">Tesla</a>
+        </li>
+        <li><a href="l">Info</a>
+    </ul>
+    
+  </div>
+</body>
+</html>
